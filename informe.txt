@@ -1,1 +1,2 @@
 hoy realizaremos la ultima practica de git para continuar con python 
+crear un commit con los comandos correspondientes y recordando la teoria de cada uno 
